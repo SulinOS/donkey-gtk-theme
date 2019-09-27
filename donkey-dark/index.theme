@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=donkey-Dark
+Name=donkey-dark
 Comment=A Material Design theme for SulinOS
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=donkey-Dark
-MetacityTheme=donkey-Dark
+GtkTheme=donkey-dark
+MetacityTheme=donkey-dark
 IconTheme=Milky
 CursorTheme=Milky
 CursorSize=24
